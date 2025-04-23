@@ -81,23 +81,12 @@ Suggestions, feedback, and contributions are always welcome! Feel free to open a
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🙋‍♂️ About Me
 
 I'm *Munna Hasan* – a passionate web developer who enjoys building clean and functional web applications.
 
 *Connect with me:*
 
-[LinkedIn](https://linkedin.com/)
-[Twitter](https://twitter.com/)
-[My Portfolio](http://yourportfolio.com)
+[Facebook](https://www.facebook.com/share/1BVEWNioMW/)
+[Instagram](https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=1yjbclz)
 
-```
-
-Let me know if you want to plug in your actual social links or portfolio URL!
-github.com
